@@ -1,0 +1,85 @@
+@import './header.css';
+@import './flexbox.css';
+@import './grid.css';
+
+body {
+    background-color: #202020;
+    margin: 0;
+}
+
+.arrow {
+    color: #9D9D9D;
+    width: 120px;
+    margin-left: 250px;
+    align-items: center;
+    font-size: 16px;
+}
+
+h1 {
+    color: #DEDEDE;
+    align-items: center;
+    text-align: center;
+    margin-top: 150px;
+    font-size: 36px;
+}
+
+
+.email-repeat  {
+    color: white;
+    background-color: #9D9D9D;
+    align-items: center;
+    margin-inline: auto;
+    width: 180px;
+    padding: 10px 40px;
+    font-size: 18px;
+}
+
+.cont{
+    height: 60px;
+    background-color: transparent;
+}
+
+.main-container {
+    display: flex;
+    height: 893px;
+}
+
+h2 {
+    margin-top: 128px;
+    margin-left: 80px;
+    color: #959595;
+    font-size: 16px;
+}
+
+.covibe {
+    color: #DEDEDE;
+    font-size: 32px;
+    width: 344px;
+    margin-top: 12px;
+    margin-left: 80px;
+}
+
+.designing {
+    color: #DEDEDE;
+    font-size: 32px;
+    width: 1248px;
+    margin-top: 12px;
+    margin-left: 80px;
+}
+
+.launch-photo {
+    margin-top: 120px;
+}
+
+.lorem {
+    color: #DEDEDE;
+    font-size: 32px;
+    width: 1248px;
+    margin-top: 12px;
+    margin-left: 80px;
+}
+
+.tiktok {
+    margin-top: 50px;
+    margin-left: 80px;
+}
