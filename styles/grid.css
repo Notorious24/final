@@ -38,6 +38,12 @@
     font-size: 18px;
 }
 
+
+.email img, .email-repeat img {
+    padding: 0 9px;
+    float: left;
+}
+
 .grid-container {
     display: grid;
     grid-template-columns: auto auto;
